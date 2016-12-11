@@ -17,6 +17,18 @@ composer update
 ```
 php -S localhost:8080
 ```
+##Para acessar os exemplos (localhost)
+
+* Layout simples 
+```
+http://localhost:8080
+```
+
+* Lista de livros 
+```
+http://localhost:8080/livros.php
+```
+
 ###Mais informações sobre o Twig na página oficial
 [Twig Oficial Page](http://twig.sensiolabs.org/)
 
